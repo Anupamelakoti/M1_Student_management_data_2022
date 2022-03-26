@@ -1,0 +1,2 @@
+# M1_Student_management_data_2022
+Student_management_data using C programming language
